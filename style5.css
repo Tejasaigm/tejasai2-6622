@@ -132,3 +132,77 @@ input:hover{
         color: white;
         
 }
+
+@media screen and (max-width:500px){
+    .container_1{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(240, 248, 255, 0.651);
+}
+.item_1{
+    border: 1px solid black;
+    width: 33.30%;
+    height: 100%;
+
+}
+.item_1:hover{
+    background-color: #81848670;
+}
+.container_2{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(240, 248, 255, 0.651);
+}
+.item_2{
+    border: 1px solid black;
+    width: 33.30%;
+    height: 100%;
+
+}
+.item_2:hover{
+    background-color: #81848670;
+}
+.container_3{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(240, 248, 255, 0.651);
+}
+.item_3{
+    border: 1px solid black;
+    width: 33.30%;
+    height: 100%;
+
+}
+.item_3:hover{
+    background-color:#81848670 ;
+}
+.container_4{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 80vh;
+    background-color: rgba(240, 248, 255, 0.651);
+}
+.item_4{
+    border: 1px solid black;
+    width: 33.30%;
+    height: 100%;
+
+}
+.item_4:hover{
+    background-color: #81848670;
+}
+.image{
+    width: 80%;
+    height: 63vh;
+    border: 1px solid rgb(56, 54, 54);
+    margin-left: 40px;
+    margin-top: 10px;
+}
+}
